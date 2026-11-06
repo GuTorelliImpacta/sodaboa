@@ -1,7 +1,7 @@
 export const site = {
   name: "Só da Boa",
   fullName: "Só da Boa Adega e Tabacaria",
-  url: "https://sodaboa.vercel.app",
+  url: "https://sodaboa-torelli-s-team.vercel.app",
   address: {
     street: "R. Mamud Rahd, 102",
     district: "Tremembé",

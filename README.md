@@ -1,6 +1,6 @@
 # Só da Boa — Adega e Tabacaria
 
-Site institucional da Só da Boa (Tremembé, São Paulo). Next.js 16 + TypeScript + Tailwind 4, estático.
+Site institucional da Só da Boa (Tremembé, São Paulo). Online: https://sodaboa-torelli-s-team.vercel.app — Next.js 16 + TypeScript + Tailwind 4, estático.
 
 - PRD: `docs/prd/so-da-boa.md` · Spec: `docs/spec/so-da-boa-tasks.md`
 - Conteúdo editável em `src/content/` (`site.ts` dados da loja, `menu.ts` itens do cardápio).
